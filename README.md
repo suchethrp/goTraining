@@ -1,0 +1,2 @@
+# goTraining
+Go language training
